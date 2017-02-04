@@ -201,4 +201,6 @@ def evaljointBayes(fname):
     print "Num add operations                : ",float((len(varlist)*totalcpt_lines))/float(2)
     print "------------------------------------------------------"
 
-evaljointBayes('Bayes1.txt')
+
+ans = raw_input("Enter the BayesFile. e.g. Bayes1.txt ")
+evaljointBayes(ans)
