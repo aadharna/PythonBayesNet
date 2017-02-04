@@ -1,0 +1,7 @@
+Burglary NONE 0.001
+Earthquake NONE 0.002
+Alarm Burglary Earthquake 0.95 0.94 0.29 0.001
+JohnCalls Alarm 0.90 0.05
+MaryCalls Alarm 0.7 0.01
+END
+
