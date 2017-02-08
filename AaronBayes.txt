@@ -1,0 +1,5 @@
+Spam NONE 0.4
+Viagra Spam 0.3 0.001
+Prince Spam 0.2 0.1
+Udacity Spam 0.0001 0.1
+END
