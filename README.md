@@ -2,7 +2,7 @@
 
  Aaron Dharna
  
- Inspired by Damian Lyons' implementation from AI-2016
+ Adapted and Expanded from Damian Lyons' implementation from AI-2016
 
 #### Assignment Five, Bayesian Networks
 
